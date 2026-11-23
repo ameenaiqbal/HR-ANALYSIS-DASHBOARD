@@ -64,3 +64,7 @@ This dashboard helps management understand employee turnover and identify the ar
 -  Attrition_Status
  - Exit_Date
  - Manager_ID
+
+   # Tools and Technologies
+
+   Microsoft Excel and  Power Bi
