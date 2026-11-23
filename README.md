@@ -11,22 +11,14 @@ Data-driven decision support to help HR management improve employee retention an
 # Employee Analysis Overview 
 <img width="1325" height="755" alt="Screenshot 2026-11-22 145344" src="https://github.com/user-attachments/assets/b6734672-e322-474e-88d7-8900e5aa321a" />
 This dashboard provides an overall view of the organization's workforce.
-
 - KPI Cards: Displays Active Employees, Employees Left, and Attrition Rate.
-  
-- Department Analysis: Shows employee distribution across different departments.
-  
-- Gender and Age Analysis: Analyzes employee distribution by gender and age group.
- 
-- Performance Analysis: Categorizes employees into High, Average, and Low performance levels.
- 
-- Geographical Analysis: Uses a map to display employee distribution across office locations.
-  
-- Salary Distribution: Displays employee distribution across four salary bands.
-  
-- Review Status Analysis: Tracks Completed, Pending, and Not Due performance reviews.
-  
-- Employment Type Analysis: Shows employee distribution by job type and department.
+  - Department Analysis: Shows employee distribution across different departments.
+  - Gender and Age Analysis: Analyzes employee distribution by gender and age group.
+ - Performance Analysis: Categorizes employees into High, Average, and Low performance levels.
+ - Geographical Analysis: Uses a map to display employee distribution across office locations.
+  - Salary Distribution: Displays employee distribution across four salary bands.
+  - Review Status Analysis: Tracks Completed, Pending, and Not Due performance reviews.
+  - Employment Type Analysis: Shows employee distribution by job type and department.
 
   # SALARY ANALYSIS
   <img width="1338" height="747" alt="Screenshot 2026-11-22 145355" src="https://github.com/user-attachments/assets/4d31ae60-bdb4-45fb-bb71-ef04b58e82b0" />
@@ -40,7 +32,7 @@ This dashboard provides an overall view of the organization's workforce.
 - Interactive Date Filter: Allows users to analyze employees based on their hire dates.
 - Dynamic Filtering: Provides filters for employment type, job title, and age group.
   
-#ATTIRITION ANALYSIS 
+# ATTIRITION ANALYSIS 
 <img width="1340" height="752" alt="Screenshot 2026-11-22 145409" src="https://github.com/user-attachments/assets/ee3bf144-bd57-4cc3-bced-9ed62669f027" />
 This dashboard helps management understand employee turnover and identify the areas experiencing higher attrition.
 - Attrition KPI Cards: Displays Resigned and Terminated employee counts.
@@ -51,3 +43,24 @@ This dashboard helps management understand employee turnover and identify the ar
 - Age Group Analysis: Identifies which age groups experience higher employee exits.
 - Salary Band Analysis: Shows employee exits across different salary bands.
 - Exit Date Filter: Allows users to analyze employee attrition within a selected date range.
+
+  # Data Sets
+  - Employee_ID
+  - Employee_Name
+ - Department_ID
+ - Location_ID
+-  Job_Title
+-  Salary_Band
+ - Employment_Type
+-  Gender
+-  Age_Group
+-  Hire_Date
+ - Attendance_Rate_Percent
+-  Performance_Score
+ - Performance_Level
+-  Review_Status
+-  Manager_Rating
+-  Training_Hours
+-  Attrition_Status
+ - Exit_Date
+ - Manager_ID
